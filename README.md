@@ -3,5 +3,5 @@ This repo contains a portfolio resume that showcases About ME, my skills and abo
 
 It was created with HTML, CSS and Javascript. Its is lightweight and fully responsive, as well as comes with the Bootstrap.
 
-#ChangeLog
+# ChangeLog
 Initial Commit
